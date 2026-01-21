@@ -4,7 +4,7 @@
       "id": "1",
       "title": "Ravana mavanda",
       "artist": "Anirudh Ravichander",
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/7/77/Leo_film_poster.jpg",
+      "artwork": "https://raw.githubusercontent.com/sugenthar/songsData/main/images/vijay.webp",
       "url": "https://raw.githubusercontent.com/sugenthar/songsData/main/songs/sample_music.mp3",
       "duration": 220
     },
@@ -12,7 +12,7 @@
       "id": "2",
       "title": "Hukum - Jailer",
       "artist": "Anirudh Ravichander",
-      "artwork": "https://upload.wikimedia.org/wikipedia/en/3/30/Jailer_2023_Tamil_film_poster.jpg",
+      "artwork": "https://raw.githubusercontent.com/sugenthar/songsData/main/images/vijay.webp",
       "url": "https://raw.githubusercontent.com/sugenthar/songsData/main/songs/sample_music.mp3",
       "duration": 210
     },
