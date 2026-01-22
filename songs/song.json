@@ -55,6 +55,54 @@
       "artwork": "https://upload.wikimedia.org/wikipedia/en/1/1b/Beast_2022_poster.jpg",
       "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
       "duration": 220
-    }
+    },
+    {
+      "id": "1",
+      "title": "Ravana mavanda",
+      "artist": "Anirudh Ravichander",
+      "artwork": "https://raw.githubusercontent.com/sugenthar/songsData/main/images/vijay.webp",
+      "url": "https://raw.githubusercontent.com/sugenthar/songsData/main/songs/sample_music.mp3",
+      "duration": 220
+    },
+    {
+      "id": "2",
+      "title": "Hukum - Jailer",
+      "artist": "Anirudh Ravichander",
+      "artwork": "https://raw.githubusercontent.com/sugenthar/songsData/main/images/vijay.webp",
+      "url": "https://raw.githubusercontent.com/sugenthar/songsData/main/songs/sample_music.mp3",
+      "duration": 210
+    },
+    {
+      "id": "1",
+      "title": "Ravana mavanda",
+      "artist": "Anirudh Ravichander",
+      "artwork": "https://raw.githubusercontent.com/sugenthar/songsData/main/images/vijay.webp",
+      "url": "https://raw.githubusercontent.com/sugenthar/songsData/main/songs/sample_music.mp3",
+      "duration": 220
+    },
+    {
+      "id": "2",
+      "title": "Hukum - Jailer",
+      "artist": "Anirudh Ravichander",
+      "artwork": "https://raw.githubusercontent.com/sugenthar/songsData/main/images/vijay.webp",
+      "url": "https://raw.githubusercontent.com/sugenthar/songsData/main/songs/sample_music.mp3",
+      "duration": 210
+    },
+    {
+      "id": "1",
+      "title": "Ravana mavanda",
+      "artist": "Anirudh Ravichander",
+      "artwork": "https://raw.githubusercontent.com/sugenthar/songsData/main/images/vijay.webp",
+      "url": "https://raw.githubusercontent.com/sugenthar/songsData/main/songs/sample_music.mp3",
+      "duration": 220
+    },
+    {
+      "id": "2",
+      "title": "Hukum - Jailer",
+      "artist": "Anirudh Ravichander",
+      "artwork": "https://raw.githubusercontent.com/sugenthar/songsData/main/images/vijay.webp",
+      "url": "https://raw.githubusercontent.com/sugenthar/songsData/main/songs/sample_music.mp3",
+      "duration": 210
+    },
   ]
 }
